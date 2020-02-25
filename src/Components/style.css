@@ -1,0 +1,32 @@
+/* start main div of vote*/
+.vote{
+  width: 230px;
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  margin-left: 15px;
+  background-color: rgb(250, 251, 253);
+}
+/* start number span*/
+.number {
+  background-color: rgb(155, 156, 238);
+  margin: 10px;
+  padding: 7px;
+}
+/* start language span*/
+.language {
+  text-align: center;
+  margin: 10px;
+  padding: 8px;
+  background-color: rgb(159, 207, 211);
+
+}
+/* all buttons*/
+button {
+  background-color: rgb(241, 141, 141);
+  padding: 8px;
+  color: white;
+  border: none;
+  font-weight: bold;
+  
+}
